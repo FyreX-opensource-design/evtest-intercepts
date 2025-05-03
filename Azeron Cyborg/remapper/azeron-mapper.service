@@ -1,0 +1,21 @@
+[Unit]
+Description=Azeron Cyborg remapper using dotool
+# Ensure this runs after dotoold is ready
+Requires=dotoold.service
+After=dotoold.service
+
+[Service]
+# Set the correct path to your script's directory
+WorkingDirectory=/home/nathan/azeron_remap
+
+# Command to run the script and pipe to dotoolc
+# Ensure paths to python3, the script, and dotoolc are correct.
+# Using sh -c to handle the pipe.
+ExecStart=/bin/sh -c '/usr/bin/python3 azeron_script.py | /usr/bin/dotoolc'
+
+# Restart the service if it fails
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target 
