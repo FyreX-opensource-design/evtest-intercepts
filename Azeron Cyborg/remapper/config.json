@@ -1,0 +1,48 @@
+{
+  "device_path": "/dev/input/event9",
+  "analog_stick": {
+    "x_code": "ABS_X",
+    "y_code": "ABS_Y",
+    "min": 0,
+    "max": 1023,
+    "center": 512,
+    "deadzone": 30,
+    "sensitivity_x": 3,
+    "sensitivity_y": 3,
+    "invert_y": false
+  },
+  "dpad": {
+    "x_code": "ABS_HAT0X",
+    "y_code": "ABS_HAT0Y",
+    "up": "key W",
+    "down": "key S",
+    "left": "key A",
+    "right": "key D"
+  },
+  "button_mappings": {
+    "BTN_TRIGGER_HAPPY1": { "press": "keydown a", "release": "keyup a" },
+    "BTN_TRIGGER_HAPPY3": { "press": "click left" },
+    "BTN_TRIGGER_HAPPY2": { "press": "keydown LeftCtrl", "release": "keyup LeftCtrl" },
+    "BTN_THUMB": { "press": "keydown space", "release": "keyup space" },
+    "BTN_TRIGGER": { "press": "buttondown right", "release": "buttonup right" },
+    "BTN_PINKIE": { "press": "key e" },
+    "BTN_TRIGGER_HAPPY9": { "press": "COMMENT: Assign action for BTN_TRIGGER_HAPPY9" },
+    "BTN_TRIGGER_HAPPY8": { "press": "COMMENT: Assign action for BTN_TRIGGER_HAPPY8" },
+    "BTN_TRIGGER_HAPPY7": { "press": "COMMENT: Assign action for BTN_TRIGGER_HAPPY7" },
+    "BTN_BASE4": { "press": "COMMENT: Assign action for BTN_BASE4" },
+    "BTN_BASE5": { "press": "COMMENT: Assign action for BTN_BASE5" },
+    "BTN_BASE": { "press": "COMMENT: Assign action for BTN_BASE" },
+    "BTN_THUMB2": { "press": "buttondown right", "release": "buttonup right" },
+    "BTN_BASE2": { "press": "COMMENT: Assign action for BTN_BASE2" },
+    "BTN_BASE6": { "press": "COMMENT: Assign action for BTN_BASE6" },
+    "BTN_TOP": { "press": "buttondown left", "release": "buttonup left" },
+    "BTN_BASE3": { "press": "COMMENT: Assign action for BTN_BASE3" },
+    "BTN_TOP2": { "press": "buttondown right", "release": "buttonup right" },
+    "300": { "press": "COMMENT: Assign action for Unknown Code 300" },
+    "301": { "press": "COMMENT: Assign action for Unknown Code 301" },
+    "302": { "press": "COMMENT: Assign action for Unknown Code 302" },
+    "BTN_DEAD": { "press": "COMMENT: Assign action for BTN_DEAD" },
+    "BTN_TRIGGER_HAPPY4": { "press": "COMMENT: Assign action for BTN_TRIGGER_HAPPY4" },
+    "BTN_TRIGGER_HAPPY6": { "press": "COMMENT: Assign action for BTN_TRIGGER_HAPPY6" }
+  }
+} 

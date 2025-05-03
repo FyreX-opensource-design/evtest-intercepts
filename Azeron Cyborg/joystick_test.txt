@@ -1,0 +1,266 @@
+Event: time 1746237020.398756, type 3 (EV_ABS), code 1 (ABS_Y), value 507
+Event: time 1746237020.398756, -------------- SYN_REPORT ------------
+Event: time 1746237020.402746, type 3 (EV_ABS), code 0 (ABS_X), value 516
+Event: time 1746237020.402746, type 3 (EV_ABS), code 1 (ABS_Y), value 504
+Event: time 1746237020.402746, -------------- SYN_REPORT ------------
+Event: time 1746237020.406741, type 3 (EV_ABS), code 0 (ABS_X), value 517
+Event: time 1746237020.406741, type 3 (EV_ABS), code 1 (ABS_Y), value 497
+Event: time 1746237020.406741, -------------- SYN_REPORT ------------
+Event: time 1746237020.410743, type 3 (EV_ABS), code 0 (ABS_X), value 518
+Event: time 1746237020.410743, type 3 (EV_ABS), code 1 (ABS_Y), value 494
+Event: time 1746237020.410743, -------------- SYN_REPORT ------------
+Event: time 1746237020.414743, type 3 (EV_ABS), code 0 (ABS_X), value 519
+Event: time 1746237020.414743, type 3 (EV_ABS), code 1 (ABS_Y), value 478
+Event: time 1746237020.414743, -------------- SYN_REPORT ------------
+Event: time 1746237020.418741, type 3 (EV_ABS), code 0 (ABS_X), value 521
+Event: time 1746237020.418741, type 3 (EV_ABS), code 1 (ABS_Y), value 447
+Event: time 1746237020.418741, -------------- SYN_REPORT ------------
+Event: time 1746237020.422741, type 3 (EV_ABS), code 0 (ABS_X), value 536
+Event: time 1746237020.422741, type 3 (EV_ABS), code 1 (ABS_Y), value 410
+Event: time 1746237020.422741, -------------- SYN_REPORT ------------
+Event: time 1746237020.426740, type 3 (EV_ABS), code 0 (ABS_X), value 544
+Event: time 1746237020.426740, type 3 (EV_ABS), code 1 (ABS_Y), value 352
+Event: time 1746237020.426740, -------------- SYN_REPORT ------------
+Event: time 1746237020.430743, type 3 (EV_ABS), code 0 (ABS_X), value 557
+Event: time 1746237020.430743, type 3 (EV_ABS), code 1 (ABS_Y), value 267
+Event: time 1746237020.430743, -------------- SYN_REPORT ------------
+Event: time 1746237020.434742, type 3 (EV_ABS), code 0 (ABS_X), value 581
+Event: time 1746237020.434742, type 3 (EV_ABS), code 1 (ABS_Y), value 212
+Event: time 1746237020.434742, -------------- SYN_REPORT ------------
+Event: time 1746237020.438740, type 3 (EV_ABS), code 0 (ABS_X), value 623
+Event: time 1746237020.438740, type 3 (EV_ABS), code 1 (ABS_Y), value 120
+Event: time 1746237020.438740, -------------- SYN_REPORT ------------
+Event: time 1746237020.442742, type 3 (EV_ABS), code 0 (ABS_X), value 643
+Event: time 1746237020.442742, type 3 (EV_ABS), code 1 (ABS_Y), value 43
+Event: time 1746237020.442742, -------------- SYN_REPORT ------------
+Event: time 1746237020.446744, type 3 (EV_ABS), code 0 (ABS_X), value 651
+Event: time 1746237020.446744, type 3 (EV_ABS), code 1 (ABS_Y), value 21
+Event: time 1746237020.446744, -------------- SYN_REPORT ------------
+Event: time 1746237020.506743, type 3 (EV_ABS), code 0 (ABS_X), value 649
+Event: time 1746237020.506743, type 3 (EV_ABS), code 1 (ABS_Y), value 20
+Event: time 1746237020.506743, -------------- SYN_REPORT ------------
+Event: time 1746237020.538744, type 3 (EV_ABS), code 0 (ABS_X), value 650
+Event: time 1746237020.538744, type 3 (EV_ABS), code 1 (ABS_Y), value 29
+Event: time 1746237020.538744, -------------- SYN_REPORT ------------
+Event: time 1746237020.542741, type 3 (EV_ABS), code 0 (ABS_X), value 649
+Event: time 1746237020.542741, type 3 (EV_ABS), code 1 (ABS_Y), value 59
+Event: time 1746237020.542741, -------------- SYN_REPORT ------------
+Event: time 1746237020.546741, type 3 (EV_ABS), code 1 (ABS_Y), value 90
+Event: time 1746237020.546741, -------------- SYN_REPORT ------------
+Event: time 1746237020.550743, type 3 (EV_ABS), code 0 (ABS_X), value 642
+Event: time 1746237020.550743, type 3 (EV_ABS), code 1 (ABS_Y), value 138
+Event: time 1746237020.550743, -------------- SYN_REPORT ------------
+Event: time 1746237020.554740, type 3 (EV_ABS), code 0 (ABS_X), value 639
+Event: time 1746237020.554740, type 3 (EV_ABS), code 1 (ABS_Y), value 221
+Event: time 1746237020.554740, -------------- SYN_REPORT ------------
+Event: time 1746237020.558742, type 3 (EV_ABS), code 0 (ABS_X), value 636
+Event: time 1746237020.558742, type 3 (EV_ABS), code 1 (ABS_Y), value 252
+Event: time 1746237020.558742, -------------- SYN_REPORT ------------
+Event: time 1746237020.562740, type 3 (EV_ABS), code 0 (ABS_X), value 625
+Event: time 1746237020.562740, type 3 (EV_ABS), code 1 (ABS_Y), value 326
+Event: time 1746237020.562740, -------------- SYN_REPORT ------------
+Event: time 1746237020.566742, type 3 (EV_ABS), code 0 (ABS_X), value 609
+Event: time 1746237020.566742, type 3 (EV_ABS), code 1 (ABS_Y), value 394
+Event: time 1746237020.566742, -------------- SYN_REPORT ------------
+Event: time 1746237020.570741, type 3 (EV_ABS), code 0 (ABS_X), value 568
+Event: time 1746237020.570741, type 3 (EV_ABS), code 1 (ABS_Y), value 467
+Event: time 1746237020.570741, -------------- SYN_REPORT ------------
+Event: time 1746237020.574741, type 3 (EV_ABS), code 0 (ABS_X), value 522
+Event: time 1746237020.574741, type 3 (EV_ABS), code 1 (ABS_Y), value 511
+Event: time 1746237020.574741, -------------- SYN_REPORT ------------
+Event: time 1746237020.578741, type 3 (EV_ABS), code 0 (ABS_X), value 512
+Event: time 1746237020.578741, -------------- SYN_REPORT ------------
+Event: time 1746237021.150747, type 3 (EV_ABS), code 0 (ABS_X), value 513
+Event: time 1746237021.150747, type 3 (EV_ABS), code 1 (ABS_Y), value 513
+Event: time 1746237021.150747, -------------- SYN_REPORT ------------
+Event: time 1746237021.154743, type 3 (EV_ABS), code 0 (ABS_X), value 519
+Event: time 1746237021.154743, type 3 (EV_ABS), code 1 (ABS_Y), value 522
+Event: time 1746237021.154743, -------------- SYN_REPORT ------------
+Event: time 1746237021.158741, type 3 (EV_ABS), code 0 (ABS_X), value 520
+Event: time 1746237021.158741, type 3 (EV_ABS), code 1 (ABS_Y), value 528
+Event: time 1746237021.158741, -------------- SYN_REPORT ------------
+Event: time 1746237021.162742, type 3 (EV_ABS), code 0 (ABS_X), value 531
+Event: time 1746237021.162742, type 3 (EV_ABS), code 1 (ABS_Y), value 577
+Event: time 1746237021.162742, -------------- SYN_REPORT ------------
+Event: time 1746237021.166742, type 3 (EV_ABS), code 0 (ABS_X), value 532
+Event: time 1746237021.166742, type 3 (EV_ABS), code 1 (ABS_Y), value 648
+Event: time 1746237021.166742, -------------- SYN_REPORT ------------
+Event: time 1746237021.170740, type 3 (EV_ABS), code 0 (ABS_X), value 538
+Event: time 1746237021.170740, type 3 (EV_ABS), code 1 (ABS_Y), value 739
+Event: time 1746237021.170740, -------------- SYN_REPORT ------------
+Event: time 1746237021.174742, type 3 (EV_ABS), code 1 (ABS_Y), value 830
+Event: time 1746237021.174742, -------------- SYN_REPORT ------------
+Event: time 1746237021.178741, type 3 (EV_ABS), code 1 (ABS_Y), value 933
+Event: time 1746237021.178741, -------------- SYN_REPORT ------------
+Event: time 1746237021.182745, type 3 (EV_ABS), code 1 (ABS_Y), value 1023
+Event: time 1746237021.182745, -------------- SYN_REPORT ------------
+Event: time 1746237021.186742, type 3 (EV_ABS), code 0 (ABS_X), value 537
+Event: time 1746237021.186742, -------------- SYN_REPORT ------------
+Event: time 1746237021.190745, type 3 (EV_ABS), code 0 (ABS_X), value 516
+Event: time 1746237021.190745, -------------- SYN_REPORT ------------
+Event: time 1746237021.290747, type 3 (EV_ABS), code 0 (ABS_X), value 518
+Event: time 1746237021.290747, -------------- SYN_REPORT ------------
+Event: time 1746237021.306740, type 3 (EV_ABS), code 1 (ABS_Y), value 1021
+Event: time 1746237021.306740, -------------- SYN_REPORT ------------
+Event: time 1746237021.310761, type 3 (EV_ABS), code 1 (ABS_Y), value 1014
+Event: time 1746237021.310761, -------------- SYN_REPORT ------------
+Event: time 1746237021.314741, type 3 (EV_ABS), code 1 (ABS_Y), value 944
+Event: time 1746237021.314741, -------------- SYN_REPORT ------------
+Event: time 1746237021.318741, type 3 (EV_ABS), code 1 (ABS_Y), value 871
+Event: time 1746237021.318741, -------------- SYN_REPORT ------------
+Event: time 1746237021.322744, type 3 (EV_ABS), code 0 (ABS_X), value 519
+Event: time 1746237021.322744, type 3 (EV_ABS), code 1 (ABS_Y), value 785
+Event: time 1746237021.322744, -------------- SYN_REPORT ------------
+Event: time 1746237021.326740, type 3 (EV_ABS), code 1 (ABS_Y), value 675
+Event: time 1746237021.326740, -------------- SYN_REPORT ------------
+Event: time 1746237021.330743, type 3 (EV_ABS), code 1 (ABS_Y), value 567
+Event: time 1746237021.330743, -------------- SYN_REPORT ------------
+Event: time 1746237021.334741, type 3 (EV_ABS), code 0 (ABS_X), value 512
+Event: time 1746237021.334741, type 3 (EV_ABS), code 1 (ABS_Y), value 512
+Event: time 1746237021.334741, -------------- SYN_REPORT ------------
+Event: time 1746237021.818741, type 3 (EV_ABS), code 0 (ABS_X), value 514
+Event: time 1746237021.818741, type 3 (EV_ABS), code 1 (ABS_Y), value 513
+Event: time 1746237021.818741, -------------- SYN_REPORT ------------
+Event: time 1746237021.822747, type 3 (EV_ABS), code 0 (ABS_X), value 521
+Event: time 1746237021.822747, type 3 (EV_ABS), code 1 (ABS_Y), value 515
+Event: time 1746237021.822747, -------------- SYN_REPORT ------------
+Event: time 1746237021.826742, type 3 (EV_ABS), code 0 (ABS_X), value 523
+Event: time 1746237021.826742, type 3 (EV_ABS), code 1 (ABS_Y), value 517
+Event: time 1746237021.826742, -------------- SYN_REPORT ------------
+Event: time 1746237021.830744, type 3 (EV_ABS), code 0 (ABS_X), value 531
+Event: time 1746237021.830744, type 3 (EV_ABS), code 1 (ABS_Y), value 518
+Event: time 1746237021.830744, -------------- SYN_REPORT ------------
+Event: time 1746237021.834742, type 3 (EV_ABS), code 0 (ABS_X), value 557
+Event: time 1746237021.834742, type 3 (EV_ABS), code 1 (ABS_Y), value 525
+Event: time 1746237021.834742, -------------- SYN_REPORT ------------
+Event: time 1746237021.838741, type 3 (EV_ABS), code 0 (ABS_X), value 593
+Event: time 1746237021.838741, type 3 (EV_ABS), code 1 (ABS_Y), value 526
+Event: time 1746237021.838741, -------------- SYN_REPORT ------------
+Event: time 1746237021.842741, type 3 (EV_ABS), code 0 (ABS_X), value 620
+Event: time 1746237021.842741, type 3 (EV_ABS), code 1 (ABS_Y), value 527
+Event: time 1746237021.842741, -------------- SYN_REPORT ------------
+Event: time 1746237021.846756, type 3 (EV_ABS), code 0 (ABS_X), value 666
+Event: time 1746237021.846756, type 3 (EV_ABS), code 1 (ABS_Y), value 529
+Event: time 1746237021.846756, -------------- SYN_REPORT ------------
+Event: time 1746237021.850741, type 3 (EV_ABS), code 0 (ABS_X), value 720
+Event: time 1746237021.850741, -------------- SYN_REPORT ------------
+Event: time 1746237021.854742, type 3 (EV_ABS), code 0 (ABS_X), value 768
+Event: time 1746237021.854742, type 3 (EV_ABS), code 1 (ABS_Y), value 530
+Event: time 1746237021.854742, -------------- SYN_REPORT ------------
+Event: time 1746237021.858745, type 3 (EV_ABS), code 0 (ABS_X), value 857
+Event: time 1746237021.858745, type 3 (EV_ABS), code 1 (ABS_Y), value 531
+Event: time 1746237021.858745, -------------- SYN_REPORT ------------
+Event: time 1746237021.862732, type 3 (EV_ABS), code 0 (ABS_X), value 887
+Event: time 1746237021.862732, -------------- SYN_REPORT ------------
+Event: time 1746237021.866730, type 3 (EV_ABS), code 0 (ABS_X), value 945
+Event: time 1746237021.866730, -------------- SYN_REPORT ------------
+Event: time 1746237021.870726, type 3 (EV_ABS), code 0 (ABS_X), value 998
+Event: time 1746237021.870726, -------------- SYN_REPORT ------------
+Event: time 1746237021.874742, type 3 (EV_ABS), code 0 (ABS_X), value 1023
+Event: time 1746237021.874742, -------------- SYN_REPORT ------------
+Event: time 1746237021.982740, type 3 (EV_ABS), code 0 (ABS_X), value 1021
+Event: time 1746237021.982740, type 3 (EV_ABS), code 1 (ABS_Y), value 532
+Event: time 1746237021.982740, -------------- SYN_REPORT ------------
+Event: time 1746237021.986743, type 3 (EV_ABS), code 0 (ABS_X), value 1010
+Event: time 1746237021.986743, -------------- SYN_REPORT ------------
+Event: time 1746237021.990740, type 3 (EV_ABS), code 0 (ABS_X), value 986
+Event: time 1746237021.990740, -------------- SYN_REPORT ------------
+Event: time 1746237021.994739, type 3 (EV_ABS), code 0 (ABS_X), value 953
+Event: time 1746237021.994739, -------------- SYN_REPORT ------------
+Event: time 1746237021.998742, type 3 (EV_ABS), code 0 (ABS_X), value 909
+Event: time 1746237021.998742, -------------- SYN_REPORT ------------
+Event: time 1746237022.002740, type 3 (EV_ABS), code 0 (ABS_X), value 867
+Event: time 1746237022.002740, -------------- SYN_REPORT ------------
+Event: time 1746237022.006739, type 3 (EV_ABS), code 0 (ABS_X), value 790
+Event: time 1746237022.006739, -------------- SYN_REPORT ------------
+Event: time 1746237022.010741, type 3 (EV_ABS), code 0 (ABS_X), value 720
+Event: time 1746237022.010741, type 3 (EV_ABS), code 1 (ABS_Y), value 531
+Event: time 1746237022.010741, -------------- SYN_REPORT ------------
+Event: time 1746237022.014741, type 3 (EV_ABS), code 0 (ABS_X), value 613
+Event: time 1746237022.014741, type 3 (EV_ABS), code 1 (ABS_Y), value 530
+Event: time 1746237022.014741, -------------- SYN_REPORT ------------
+Event: time 1746237022.018743, type 3 (EV_ABS), code 0 (ABS_X), value 525
+Event: time 1746237022.018743, type 3 (EV_ABS), code 1 (ABS_Y), value 518
+Event: time 1746237022.018743, -------------- SYN_REPORT ------------
+Event: time 1746237022.022742, type 3 (EV_ABS), code 0 (ABS_X), value 512
+Event: time 1746237022.022742, type 3 (EV_ABS), code 1 (ABS_Y), value 512
+Event: time 1746237022.022742, -------------- SYN_REPORT ------------
+Event: time 1746237022.506744, type 3 (EV_ABS), code 0 (ABS_X), value 510
+Event: time 1746237022.506744, type 3 (EV_ABS), code 1 (ABS_Y), value 514
+Event: time 1746237022.506744, -------------- SYN_REPORT ------------
+Event: time 1746237022.510740, type 3 (EV_ABS), code 0 (ABS_X), value 494
+Event: time 1746237022.510740, type 3 (EV_ABS), code 1 (ABS_Y), value 516
+Event: time 1746237022.510740, -------------- SYN_REPORT ------------
+Event: time 1746237022.514739, type 3 (EV_ABS), code 0 (ABS_X), value 480
+Event: time 1746237022.514739, type 3 (EV_ABS), code 1 (ABS_Y), value 518
+Event: time 1746237022.514739, -------------- SYN_REPORT ------------
+Event: time 1746237022.518738, type 3 (EV_ABS), code 0 (ABS_X), value 447
+Event: time 1746237022.518738, type 3 (EV_ABS), code 1 (ABS_Y), value 520
+Event: time 1746237022.518738, -------------- SYN_REPORT ------------
+Event: time 1746237022.522739, type 3 (EV_ABS), code 0 (ABS_X), value 407
+Event: time 1746237022.522739, type 3 (EV_ABS), code 1 (ABS_Y), value 522
+Event: time 1746237022.522739, -------------- SYN_REPORT ------------
+Event: time 1746237022.526739, type 3 (EV_ABS), code 0 (ABS_X), value 354
+Event: time 1746237022.526739, type 3 (EV_ABS), code 1 (ABS_Y), value 529
+Event: time 1746237022.526739, -------------- SYN_REPORT ------------
+Event: time 1746237022.530738, type 3 (EV_ABS), code 0 (ABS_X), value 297
+Event: time 1746237022.530738, type 3 (EV_ABS), code 1 (ABS_Y), value 542
+Event: time 1746237022.530738, -------------- SYN_REPORT ------------
+Event: time 1746237022.534738, type 3 (EV_ABS), code 0 (ABS_X), value 238
+Event: time 1746237022.534738, type 3 (EV_ABS), code 1 (ABS_Y), value 561
+Event: time 1746237022.534738, -------------- SYN_REPORT ------------
+Event: time 1746237022.538738, type 3 (EV_ABS), code 0 (ABS_X), value 163
+Event: time 1746237022.538738, type 3 (EV_ABS), code 1 (ABS_Y), value 589
+Event: time 1746237022.538738, -------------- SYN_REPORT ------------
+Event: time 1746237022.542738, type 3 (EV_ABS), code 0 (ABS_X), value 84
+Event: time 1746237022.542738, type 3 (EV_ABS), code 1 (ABS_Y), value 625
+Event: time 1746237022.542738, -------------- SYN_REPORT ------------
+Event: time 1746237022.546742, type 3 (EV_ABS), code 0 (ABS_X), value 24
+Event: time 1746237022.546742, type 3 (EV_ABS), code 1 (ABS_Y), value 662
+Event: time 1746237022.546742, -------------- SYN_REPORT ------------
+Event: time 1746237022.550734, type 3 (EV_ABS), code 1 (ABS_Y), value 668
+Event: time 1746237022.550734, -------------- SYN_REPORT ------------
+Event: time 1746237022.554732, type 3 (EV_ABS), code 1 (ABS_Y), value 666
+Event: time 1746237022.554732, -------------- SYN_REPORT ------------
+Event: time 1746237022.558739, type 3 (EV_ABS), code 0 (ABS_X), value 23
+Event: time 1746237022.558739, type 3 (EV_ABS), code 1 (ABS_Y), value 660
+Event: time 1746237022.558739, -------------- SYN_REPORT ------------
+Event: time 1746237022.562752, type 3 (EV_ABS), code 0 (ABS_X), value 21
+Event: time 1746237022.562752, type 3 (EV_ABS), code 1 (ABS_Y), value 649
+Event: time 1746237022.562752, -------------- SYN_REPORT ------------
+Event: time 1746237022.566739, type 3 (EV_ABS), code 0 (ABS_X), value 19
+Event: time 1746237022.566739, type 3 (EV_ABS), code 1 (ABS_Y), value 640
+Event: time 1746237022.566739, -------------- SYN_REPORT ------------
+Event: time 1746237022.570738, type 3 (EV_ABS), code 0 (ABS_X), value 18
+Event: time 1746237022.570738, type 3 (EV_ABS), code 1 (ABS_Y), value 638
+Event: time 1746237022.570738, -------------- SYN_REPORT ------------
+Event: time 1746237022.638744, type 3 (EV_ABS), code 1 (ABS_Y), value 639
+Event: time 1746237022.638744, -------------- SYN_REPORT ------------
+Event: time 1746237022.642739, type 3 (EV_ABS), code 1 (ABS_Y), value 645
+Event: time 1746237022.642739, -------------- SYN_REPORT ------------
+Event: time 1746237022.646741, type 3 (EV_ABS), code 0 (ABS_X), value 32
+Event: time 1746237022.646741, type 3 (EV_ABS), code 1 (ABS_Y), value 646
+Event: time 1746237022.646741, -------------- SYN_REPORT ------------
+Event: time 1746237022.650738, type 3 (EV_ABS), code 0 (ABS_X), value 41
+Event: time 1746237022.650738, -------------- SYN_REPORT ------------
+Event: time 1746237022.654740, type 3 (EV_ABS), code 0 (ABS_X), value 85
+Event: time 1746237022.654740, type 3 (EV_ABS), code 1 (ABS_Y), value 645
+Event: time 1746237022.654740, -------------- SYN_REPORT ------------
+Event: time 1746237022.658744, type 3 (EV_ABS), code 0 (ABS_X), value 138
+Event: time 1746237022.658744, type 3 (EV_ABS), code 1 (ABS_Y), value 643
+Event: time 1746237022.658744, -------------- SYN_REPORT ------------
+Event: time 1746237022.662746, type 3 (EV_ABS), code 0 (ABS_X), value 203
+Event: time 1746237022.662746, type 3 (EV_ABS), code 1 (ABS_Y), value 620
+Event: time 1746237022.662746, -------------- SYN_REPORT ------------
+Event: time 1746237022.666738, type 3 (EV_ABS), code 0 (ABS_X), value 270
+Event: time 1746237022.666738, type 3 (EV_ABS), code 1 (ABS_Y), value 593
+Event: time 1746237022.666738, -------------- SYN_REPORT ------------
+Event: time 1746237022.670744, type 3 (EV_ABS), code 0 (ABS_X), value 347
+Event: time 1746237022.670744, type 3 (EV_ABS), code 1 (ABS_Y), value 562
+Event: time 1746237022.670744, -------------- SYN_REPORT ------------
+Event: time 1746237022.674745, type 3 (EV_ABS), code 0 (ABS_X), value 435
+Event: time 1746237022.674745, type 3 (EV_ABS), code 1 (ABS_Y), value 535
+Event: time 1746237022.674745, -------------- SYN_REPORT ------------
+Event: time 1746237022.678747, type 3 (EV_ABS), code 0 (ABS_X), value 514
+Event: time 1746237022.678747, type 3 (EV_ABS), code 1 (ABS_Y), value 514
+Event: time 1746237022.678747, -------------- SYN_REPORT ------------

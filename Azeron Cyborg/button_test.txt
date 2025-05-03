@@ -1,0 +1,160 @@
+Event: time 1746237659.210114, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90013
+Event: time 1746237659.210114, type 1 (EV_KEY), code 706 (BTN_TRIGGER_HAPPY3), value 1
+Event: time 1746237659.210114, -------------- SYN_REPORT ------------
+Event: time 1746237659.350104, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90013
+Event: time 1746237659.350104, type 1 (EV_KEY), code 706 (BTN_TRIGGER_HAPPY3), value 0
+Event: time 1746237659.350104, -------------- SYN_REPORT ------------
+Event: time 1746237660.234104, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90012
+Event: time 1746237660.234104, type 1 (EV_KEY), code 705 (BTN_TRIGGER_HAPPY2), value 1
+Event: time 1746237660.234104, -------------- SYN_REPORT ------------
+Event: time 1746237660.382104, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90012
+Event: time 1746237660.382104, type 1 (EV_KEY), code 705 (BTN_TRIGGER_HAPPY2), value 0
+Event: time 1746237660.382104, -------------- SYN_REPORT ------------
+Event: time 1746237661.482113, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90019
+Event: time 1746237661.482113, type 1 (EV_KEY), code 712 (BTN_TRIGGER_HAPPY9), value 1
+Event: time 1746237661.482113, -------------- SYN_REPORT ------------
+Event: time 1746237661.638106, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90019
+Event: time 1746237661.638106, type 1 (EV_KEY), code 712 (BTN_TRIGGER_HAPPY9), value 0
+Event: time 1746237661.638106, -------------- SYN_REPORT ------------
+Event: time 1746237662.166118, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90018
+Event: time 1746237662.166118, type 1 (EV_KEY), code 711 (BTN_TRIGGER_HAPPY8), value 1
+Event: time 1746237662.166118, -------------- SYN_REPORT ------------
+Event: time 1746237662.286105, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90018
+Event: time 1746237662.286105, type 1 (EV_KEY), code 711 (BTN_TRIGGER_HAPPY8), value 0
+Event: time 1746237662.286105, -------------- SYN_REPORT ------------
+Event: time 1746237663.230137, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90017
+Event: time 1746237663.230137, type 1 (EV_KEY), code 710 (BTN_TRIGGER_HAPPY7), value 1
+Event: time 1746237663.230137, -------------- SYN_REPORT ------------
+Event: time 1746237663.322106, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90017
+Event: time 1746237663.322106, type 1 (EV_KEY), code 710 (BTN_TRIGGER_HAPPY7), value 0
+Event: time 1746237663.322106, -------------- SYN_REPORT ------------
+Event: time 1746237664.754117, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90001
+Event: time 1746237664.754117, type 1 (EV_KEY), code 288 (BTN_TRIGGER), value 1
+Event: time 1746237664.754117, -------------- SYN_REPORT ------------
+Event: time 1746237664.874105, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90001
+Event: time 1746237664.874105, type 1 (EV_KEY), code 288 (BTN_TRIGGER), value 0
+Event: time 1746237664.874105, -------------- SYN_REPORT ------------
+Event: time 1746237665.114112, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000a
+Event: time 1746237665.114112, type 1 (EV_KEY), code 297 (BTN_BASE4), value 1
+Event: time 1746237665.114112, -------------- SYN_REPORT ------------
+Event: time 1746237665.230109, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000a
+Event: time 1746237665.230109, type 1 (EV_KEY), code 297 (BTN_BASE4), value 0
+Event: time 1746237665.230109, -------------- SYN_REPORT ------------
+Event: time 1746237666.050115, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90006
+Event: time 1746237666.050115, type 1 (EV_KEY), code 293 (BTN_PINKIE), value 1
+Event: time 1746237666.050115, -------------- SYN_REPORT ------------
+Event: time 1746237666.170108, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90006
+Event: time 1746237666.170108, type 1 (EV_KEY), code 293 (BTN_PINKIE), value 0
+Event: time 1746237666.170108, -------------- SYN_REPORT ------------
+Event: time 1746237666.498107, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90002
+Event: time 1746237666.498107, type 1 (EV_KEY), code 289 (BTN_THUMB), value 1
+Event: time 1746237666.498107, -------------- SYN_REPORT ------------
+Event: time 1746237666.646105, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90002
+Event: time 1746237666.646105, type 1 (EV_KEY), code 289 (BTN_THUMB), value 0
+Event: time 1746237666.646105, -------------- SYN_REPORT ------------
+Event: time 1746237666.790111, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000b
+Event: time 1746237666.790111, type 1 (EV_KEY), code 298 (BTN_BASE5), value 1
+Event: time 1746237666.790111, -------------- SYN_REPORT ------------
+Event: time 1746237666.906106, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000b
+Event: time 1746237666.906106, type 1 (EV_KEY), code 298 (BTN_BASE5), value 0
+Event: time 1746237666.906106, -------------- SYN_REPORT ------------
+Event: time 1746237667.186112, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90007
+Event: time 1746237667.186112, type 1 (EV_KEY), code 294 (BTN_BASE), value 1
+Event: time 1746237667.186112, -------------- SYN_REPORT ------------
+Event: time 1746237667.298106, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90007
+Event: time 1746237667.298106, type 1 (EV_KEY), code 294 (BTN_BASE), value 0
+Event: time 1746237667.298106, -------------- SYN_REPORT ------------
+Event: time 1746237667.766109, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90003
+Event: time 1746237667.766109, type 1 (EV_KEY), code 290 (BTN_THUMB2), value 1
+Event: time 1746237667.766109, -------------- SYN_REPORT ------------
+Event: time 1746237667.902108, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90003
+Event: time 1746237667.902108, type 1 (EV_KEY), code 290 (BTN_THUMB2), value 0
+Event: time 1746237667.902108, -------------- SYN_REPORT ------------
+Event: time 1746237668.230108, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90008
+Event: time 1746237668.230108, type 1 (EV_KEY), code 295 (BTN_BASE2), value 1
+Event: time 1746237668.230108, -------------- SYN_REPORT ------------
+Event: time 1746237668.322106, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90008
+Event: time 1746237668.322106, type 1 (EV_KEY), code 295 (BTN_BASE2), value 0
+Event: time 1746237668.322106, -------------- SYN_REPORT ------------
+Event: time 1746237668.658108, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000c
+Event: time 1746237668.658108, type 1 (EV_KEY), code 299 (BTN_BASE6), value 1
+Event: time 1746237668.658108, -------------- SYN_REPORT ------------
+Event: time 1746237668.734109, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000c
+Event: time 1746237668.734109, type 1 (EV_KEY), code 299 (BTN_BASE6), value 0
+Event: time 1746237668.734109, -------------- SYN_REPORT ------------
+Event: time 1746237669.126111, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90004
+Event: time 1746237669.126111, type 1 (EV_KEY), code 291 (BTN_TOP), value 1
+Event: time 1746237669.126111, -------------- SYN_REPORT ------------
+Event: time 1746237669.290108, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90004
+Event: time 1746237669.290108, type 1 (EV_KEY), code 291 (BTN_TOP), value 0
+Event: time 1746237669.290108, -------------- SYN_REPORT ------------
+Event: time 1746237669.466109, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90009
+Event: time 1746237669.466109, type 1 (EV_KEY), code 296 (BTN_BASE3), value 1
+Event: time 1746237669.466109, -------------- SYN_REPORT ------------
+Event: time 1746237669.610109, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90009
+Event: time 1746237669.610109, type 1 (EV_KEY), code 296 (BTN_BASE3), value 0
+Event: time 1746237669.610109, -------------- SYN_REPORT ------------
+Event: time 1746237669.766106, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90005
+Event: time 1746237669.766106, type 1 (EV_KEY), code 292 (BTN_TOP2), value 1
+Event: time 1746237669.766106, -------------- SYN_REPORT ------------
+Event: time 1746237669.910113, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90005
+Event: time 1746237669.910113, type 1 (EV_KEY), code 292 (BTN_TOP2), value 0
+Event: time 1746237669.910113, -------------- SYN_REPORT ------------
+Event: time 1746237670.230109, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000d
+Event: time 1746237670.230109, type 1 (EV_KEY), code 300 (?), value 1
+Event: time 1746237670.230109, -------------- SYN_REPORT ------------
+Event: time 1746237670.358109, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000d
+Event: time 1746237670.358109, type 1 (EV_KEY), code 300 (?), value 0
+Event: time 1746237670.358109, -------------- SYN_REPORT ------------
+Event: time 1746237671.486100, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000e
+Event: time 1746237671.486100, type 1 (EV_KEY), code 301 (?), value 1
+Event: time 1746237671.486100, -------------- SYN_REPORT ------------
+Event: time 1746237671.606106, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000e
+Event: time 1746237671.606106, type 1 (EV_KEY), code 301 (?), value 0
+Event: time 1746237671.606106, -------------- SYN_REPORT ------------
+Event: time 1746237671.858111, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000f
+Event: time 1746237671.858111, type 1 (EV_KEY), code 302 (?), value 1
+Event: time 1746237671.858111, -------------- SYN_REPORT ------------
+Event: time 1746237671.974115, type 4 (EV_MSC), code 4 (MSC_SCAN), value 9000f
+Event: time 1746237671.974115, type 1 (EV_KEY), code 302 (?), value 0
+Event: time 1746237671.974115, -------------- SYN_REPORT ------------
+Event: time 1746237672.626115, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90010
+Event: time 1746237672.626115, type 1 (EV_KEY), code 303 (BTN_DEAD), value 1
+Event: time 1746237672.626115, -------------- SYN_REPORT ------------
+Event: time 1746237672.758109, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90010
+Event: time 1746237672.758109, type 1 (EV_KEY), code 303 (BTN_DEAD), value 0
+Event: time 1746237672.758109, -------------- SYN_REPORT ------------
+Event: time 1746237672.998118, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90011
+Event: time 1746237672.998118, type 1 (EV_KEY), code 704 (BTN_TRIGGER_HAPPY1), value 1
+Event: time 1746237672.998118, -------------- SYN_REPORT ------------
+Event: time 1746237673.142110, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90011
+Event: time 1746237673.142110, type 1 (EV_KEY), code 704 (BTN_TRIGGER_HAPPY1), value 0
+Event: time 1746237673.142110, -------------- SYN_REPORT ------------
+Event: time 1746237674.438104, type 3 (EV_ABS), code 17 (ABS_HAT0Y), value 1
+Event: time 1746237674.438104, -------------- SYN_REPORT ------------
+Event: time 1746237674.610114, type 3 (EV_ABS), code 17 (ABS_HAT0Y), value 0
+Event: time 1746237674.610114, -------------- SYN_REPORT ------------
+Event: time 1746237675.158120, type 3 (EV_ABS), code 16 (ABS_HAT0X), value 1
+Event: time 1746237675.158120, -------------- SYN_REPORT ------------
+Event: time 1746237675.298113, type 3 (EV_ABS), code 16 (ABS_HAT0X), value 0
+Event: time 1746237675.298113, -------------- SYN_REPORT ------------
+Event: time 1746237675.682113, type 3 (EV_ABS), code 16 (ABS_HAT0X), value -1
+Event: time 1746237675.682113, -------------- SYN_REPORT ------------
+Event: time 1746237675.818111, type 3 (EV_ABS), code 16 (ABS_HAT0X), value 0
+Event: time 1746237675.818111, -------------- SYN_REPORT ------------
+Event: time 1746237676.206113, type 3 (EV_ABS), code 17 (ABS_HAT0Y), value -1
+Event: time 1746237676.206113, -------------- SYN_REPORT ------------
+Event: time 1746237676.326114, type 3 (EV_ABS), code 17 (ABS_HAT0Y), value 0
+Event: time 1746237676.326114, -------------- SYN_REPORT ------------
+Event: time 1746237676.866121, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90014
+Event: time 1746237676.866121, type 1 (EV_KEY), code 707 (BTN_TRIGGER_HAPPY4), value 1
+Event: time 1746237676.866121, -------------- SYN_REPORT ------------
+Event: time 1746237677.070114, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90014
+Event: time 1746237677.070114, type 1 (EV_KEY), code 707 (BTN_TRIGGER_HAPPY4), value 0
+Event: time 1746237677.070114, -------------- SYN_REPORT ------------
+Event: time 1746237677.562111, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90016
+Event: time 1746237677.562111, type 1 (EV_KEY), code 709 (BTN_TRIGGER_HAPPY6), value 1
+Event: time 1746237677.562111, -------------- SYN_REPORT ------------
+Event: time 1746237677.758117, type 4 (EV_MSC), code 4 (MSC_SCAN), value 90016
+Event: time 1746237677.758117, type 1 (EV_KEY), code 709 (BTN_TRIGGER_HAPPY6), value 0
+Event: time 1746237677.758117, -------------- SYN_REPORT ------------
